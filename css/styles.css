@@ -1,0 +1,18 @@
+h1 {
+  font-style: italic;
+  color: darkblue;
+}
+
+body {
+  background-color: ;
+}
+
+#submit {
+  display: none
+}
+
+.happy {
+  font-size: larger;
+  color: azure;
+  font-style: italic;
+}
